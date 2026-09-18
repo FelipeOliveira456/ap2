@@ -12,7 +12,7 @@ ap2/
 │       ├── css/
 │       ├── js/
 │       └── img/
-├── outro-framework/
+├── tailwind/
 │   ├── index.html
 │   └── assets/
 │       ├── css/
@@ -35,7 +35,7 @@ Acesse `http://localhost:8000` no navegador.
 
 - HTML5, CSS3, JavaScript
 - Bootstrap 5.3 (versão `bootstrap/`)
-- Tailwind CSS (versão `outro-framework/`)
+- Tailwind CSS (versão `tailwind/`)
 - Font Awesome
 
 ## Informações do projeto
